@@ -1,2 +1,3 @@
-console.log('moeda')
-alert('Hello world')
+export default {
+    moeda: 'BRL'
+}
